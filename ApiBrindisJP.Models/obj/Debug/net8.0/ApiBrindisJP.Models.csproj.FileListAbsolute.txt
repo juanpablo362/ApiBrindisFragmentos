@@ -1,0 +1,11 @@
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\bin\Debug\net8.0\ApiBrindisJP.Models.deps.json
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\bin\Debug\net8.0\ApiBrindisJP.Models.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\bin\Debug\net8.0\ApiBrindisJP.Models.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ApiBrindisJP.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ApiBrindisJP.Models.AssemblyInfoInputs.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ApiBrindisJP.Models.AssemblyInfo.cs
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ApiBrindisJP.Models.csproj.CoreCompileInputs.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ApiBrindisJP.Models.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\refint\ApiBrindisJP.Models.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ApiBrindisJP.Models.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Models\obj\Debug\net8.0\ref\ApiBrindisJP.Models.dll

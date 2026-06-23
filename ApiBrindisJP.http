@@ -1,0 +1,103 @@
+@ApiBrindisJP_HostAddress = http://localhost:5139
+@token = {{login.response.body.token}}
+
+### Ping mínimo (sin BD, sin auth)
+GET {{ApiBrindisJP_HostAddress}}/ping
+Accept: application/json
+
+###
+
+### Debug ping (sin BD, sin auth)
+GET {{ApiBrindisJP_HostAddress}}/api/debug/ping
+Accept: application/json
+
+###
+
+### Debug info (sin BD, sin auth)
+GET {{ApiBrindisJP_HostAddress}}/api/debug/info
+Accept: application/json
+
+###
+
+### Health (sin BD, sin auth)
+GET {{ApiBrindisJP_HostAddress}}/api/health
+Accept: application/json
+
+###
+
+### Login
+# @name login
+POST {{ApiBrindisJP_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "usuario": "admin",
+  "password": "123456"
+}
+
+###
+
+### Register
+POST {{ApiBrindisJP_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{
+  "usuario": "nuevo_usuario",
+  "password": "123456",
+  "nombreCompleto": "Usuario Nuevo"
+}
+
+###
+
+### Obtener todos los clientes
+GET {{ApiBrindisJP_HostAddress}}/api/clientes
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+### Buscar cliente por clave
+GET {{ApiBrindisJP_HostAddress}}/api/clientes/0001
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+### Insertar cliente
+POST {{ApiBrindisJP_HostAddress}}/api/clientes
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "clave": "0005",
+  "nombre": "Juan Pablo Morales",
+  "edad": 20,
+  "fechaNacimiento": "2006-02-10"
+}
+
+###
+
+### Actualizar cliente
+PUT {{ApiBrindisJP_HostAddress}}/api/clientes/0005
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "nombre": "Juan Pablo Morales Rivera",
+  "edad": 21,
+  "fechaNacimiento": "2005-02-10"
+}
+
+###
+
+### Eliminar cliente
+DELETE {{ApiBrindisJP_HostAddress}}/api/clientes/0005
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+### Cliente no encontrado (404)
+GET {{ApiBrindisJP_HostAddress}}/api/clientes/9999
+Authorization: Bearer {{token}}
+Accept: application/json

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiBrindisJP.csproj" />
+  <Project Path="ApiBrindisJP.Models\ApiBrindisJP.Models.csproj" />
+  <Project Path="ApiBrindisJP.DTOs\ApiBrindisJP.DTOs.csproj" />
+  <Project Path="ApiBrindisJP.Data\ApiBrindisJP.Data.csproj" />
+</Solution>

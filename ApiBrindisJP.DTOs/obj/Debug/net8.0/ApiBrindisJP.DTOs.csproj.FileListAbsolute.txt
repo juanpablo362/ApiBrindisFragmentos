@@ -1,0 +1,11 @@
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\bin\Debug\net8.0\ApiBrindisJP.DTOs.deps.json
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\bin\Debug\net8.0\ApiBrindisJP.DTOs.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\bin\Debug\net8.0\ApiBrindisJP.DTOs.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ApiBrindisJP.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ApiBrindisJP.DTOs.AssemblyInfoInputs.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ApiBrindisJP.DTOs.AssemblyInfo.cs
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ApiBrindisJP.DTOs.csproj.CoreCompileInputs.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ApiBrindisJP.DTOs.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\refint\ApiBrindisJP.DTOs.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ApiBrindisJP.DTOs.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.DTOs\obj\Debug\net8.0\ref\ApiBrindisJP.DTOs.dll

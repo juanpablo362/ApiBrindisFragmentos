@@ -1,0 +1,17 @@
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\bin\Debug\net8.0\ApiBrindisJP.Data.deps.json
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\bin\Debug\net8.0\ApiBrindisJP.Data.runtimeconfig.json
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\bin\Debug\net8.0\ApiBrindisJP.Data.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\bin\Debug\net8.0\ApiBrindisJP.Data.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\bin\Debug\net8.0\ApiBrindisJP.Models.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\bin\Debug\net8.0\ApiBrindisJP.Models.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.csproj.AssemblyReference.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.AssemblyInfoInputs.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.AssemblyInfo.cs
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.csproj.CoreCompileInputs.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrind.5D56D008.Up2Date
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\refint\ApiBrindisJP.Data.dll
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.pdb
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ApiBrindisJP.Data.genruntimeconfig.cache
+C:\proyectos\ApiBrindisJP\ApiBrindisJP.Data\obj\Debug\net8.0\ref\ApiBrindisJP.Data.dll
